@@ -32,3 +32,8 @@
 5
 >>> 17 // 3
 5
+# ini adalah % modulus digunakan untuk operasi hitung yang menghasilkan sisa pembagian dari suatu bilangan terhadap bilangan lainnya
+>>> 5 % 2
+1
+>>> 23 % 5
+3
