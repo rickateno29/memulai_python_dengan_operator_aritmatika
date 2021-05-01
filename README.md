@@ -37,3 +37,14 @@
 1
 >>> 23 % 5
 3
+# ini adalah operator penugasan python
+# ini adalah (=) sama dengan
+>>> z = 5 # z sama dengan 5
+# ini adalah += 
+>>> z += 3 # z = z + 3
+# ini adalah -=
+>>> z -= 10 # z = z - 10
+# ini adalah *=
+>>> z *= 8 # z = z * 8
+# ini adalah /=
+>>> z /= 6 # z = z / 6
